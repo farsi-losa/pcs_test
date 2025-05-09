@@ -1,5 +1,7 @@
 # Flutter Application
 
+<img src="hots/index.png" width="200" alt="App Screenshot">
+<img src="hots/notif_page.png" width="200" alt="App Screenshot">
 ![App Screenshot](screenshots/index.png)
 ![App Screenshot](screenshots/notif_page.png)
 
